@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **new ways to extract meaningful insights from data using advanced statistical models and machine learning techniques.📈**
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/arbabkarim](https://www.datascienceportfol.io/arbabkarim)
+- 👨‍💻 All of my projects are available at [https://arbab11.github.io/portfolio/](https://arbab11.github.io/portfolio/)
 
 - 💬 Ask me about **the magic of turning data into actionable insights!📊**
 
